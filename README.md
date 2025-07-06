@@ -1,3 +1,4 @@
+git commit -m "Resolved merge conflicts"
 <<<<<<< HEAD
 # React + Vite
 

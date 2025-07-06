@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import InputBox from './Components/InputBox'
-import useCurrencyInfo from './hooks/useCurrencyinfo'
+import useCurrencyInfo from './hooks/useCurrencyInfo'
 function App() {
     const [count, setCount] = useState(0)
     const [amount , setAmount] = useState(0);

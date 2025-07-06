@@ -1,4 +1,4 @@
-import useCurrencyInfo from "../hooks/useCurrencyinfo";
+import useCurrencyInfo from "../hooks/useCurrencyInfo";
 
 function InputBox({
     label,
